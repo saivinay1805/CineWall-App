@@ -1,6 +1,5 @@
 
-https://github.com/user-attachments/assets/3e285e1f-77a1-4065-82a9-6eb61a45b75f
-# <img src="https://via.placeholder.com/50?text=+" width="40" align="center"/> CineWall
+# <img width="40" height="40" alt="Picsart_26-01-02_10-51-59-780" src="https://github.com/user-attachments/assets/43445e6a-d958-4555-b872-36d7323b8cd1" /> CineWall
 
 **The Native "Liquid Glass" Video Wallpaper Engine for macOS.**
 
