@@ -1,7 +1,7 @@
 
 # <img width="40" height="40" alt="Picsart_26-01-02_10-51-59-780" src="https://github.com/user-attachments/assets/43445e6a-d958-4555-b872-36d7323b8cd1" /> CineWall
 
-**The Native "Liquid Glass" Video Wallpaper Engine for macOS.**
+**The Native Video Wallpaper Engine for macOS.**
 
 [![macOS](https://img.shields.io/badge/Platform-macOS-black?logo=apple)](https://www.apple.com/macos)
 [![Release](https://img.shields.io/github/v/release/saivinay1805/CineWall-App?color=blue&label=Latest%20Version)](https://github.com/saivinay1805/CineWall-App/releases/latest)
